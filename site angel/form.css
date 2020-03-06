@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(190, 164, 138, 0.288);
+    width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+a{
+    text-decoration: none;
+    color:rgb(58, 56, 56);
+}
+a:hover{
+    text-decoration: underline;
+    color: red;
+}
+h1{
+    width: 30%;
+}
+
