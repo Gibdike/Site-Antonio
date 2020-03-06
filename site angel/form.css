@@ -1,18 +1,24 @@
-body{
+body {
     background-color: rgba(190, 164, 138, 0.288);
-    width: 100%;
-    margin-left: 10%;
-    margin-right: 10%;
+    width: 90%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
-a{
+
+a {
     text-decoration: none;
-    color:rgb(58, 56, 56);
+    color: rgb(58, 56, 56);
 }
-a:hover{
+
+a:hover {
     text-decoration: underline;
     color: red;
 }
-h1{
-    width: 30%;
+
+ol .ul {
+    width: 100%;
 }
 
+img {
+    width: 100%;
+}
