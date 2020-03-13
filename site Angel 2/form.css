@@ -1,0 +1,58 @@
+body{
+   background: rgb(53, 51, 51);
+}
+#cabec{
+    
+    height: 502 px;
+}
+#cabec img{
+     margin-top: 20px;
+     border-radius: 50%;
+     border: 4px solid black;
+}
+#garai{
+    width: 722px;
+    height: 2000px;
+    background: rgb(190, 213, 214);
+}
+.coiso{
+    background: #29ABE2;
+    box-sizing: content-box;
+    height: 562px;
+    width: 95%;
+    border-radius: 5%;
+}
+.coiso h1{
+    padding: 20px;
+}
+.coiso h2{
+    padding: 15px;
+}
+#texto{
+    box-sizing: content-box;
+    height: 75%;
+}
+#tab {
+    box-sizing: content-box;
+    height: 20%;
+}
+#tab li{
+    display: inline;
+}
+#tab li a {
+    padding: 20px;
+    display: inline-block;
+    color: rgb(238, 221, 221);
+    text-decoration: none;
+}
+#tab li a:hover{
+    color:rgb(34, 110, 143);
+}
+h1,h2,h3,h4,h4,h5,h6{
+    color:white;
+}
+#textos h2,h3,h4,h4,h5,h6{
+    color:white;
+    text-align: left;
+    margin-left: 10%;
+}
