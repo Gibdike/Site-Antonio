@@ -1,10 +1,23 @@
 body {
-    background-color: rgba(190, 164, 138, 0.288);
-    width: 90%;
-    padding-left: 5%;
-    padding-right: 5%;
+    background-color: #98F5FF;
 }
-
+#menu{
+background-color: #98F5FF;
+}
+#menu h1{
+margin-left:10%;
+font-size:40px;}
+#menu h4{
+margin-left:10%;}
+#topo{
+	background-color: #E0FFFF;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#topo #ajuste{
+	margin-left:2%;
+	margin-right:2%;
+}
 a {
     text-decoration: none;
     color: rgb(58, 56, 56);
@@ -15,10 +28,29 @@ a:hover {
     color: red;
 }
 
-ol .ul {
+#lista2 ol{
+	margin-right:7%;
     width: 100%;
 }
-
-img {
+#lista2 img {
     width: 100%;
+}
+#topo #lista ul{
+    padding:0px;
+    margin:0px;
+    background-color:#BFEFFF;
+    list-style:none;
+}
+#lista ul li{
+	display: inline-block;
+	width:20%;
+	height:40px;
+	padding-right:2%;
+	padding-left:0%;
+}
+#lista ul li a{
+	position:center;
+}
+#lista ul li:hover{
+	 background-color:#68838B;
 }
